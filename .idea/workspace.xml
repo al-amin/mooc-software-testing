@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997ca4af-d2f3-4eb0-9ec1-9e452063460a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tudelft/gettingstarted/GettingStartedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tudelft/gettingstarted/GettingStartedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tudelft/numfinder/NumFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tudelft/numfinder/NumFinder.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GettingStartedTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GettingStartedTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tudelft/gettingstarted/GettingStartedTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumFinder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumFinderMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinderMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -50,6 +68,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/tudelft/gettingstarted/GettingStartedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinderMain.java" />
       </list>
     </option>
   </component>
@@ -121,6 +141,24 @@
               <item name="testing-mooc" type="b2602c69:ProjectViewProjectNode" />
               <item name="mooc-software-testing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tudelft" type="462c0819:PsiDirectoryNode" />
+              <item name="numfinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-mooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mooc-software-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tudelft" type="462c0819:PsiDirectoryNode" />
+              <item name="roman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-mooc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mooc-software-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -137,15 +175,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tudelft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-mooc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mooc-software-testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tudelft" type="462c0819:PsiDirectoryNode" />
-              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,7 +203,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NumFinderMain">
+    <configuration name="NumFinderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tudelft.numfinder.NumFinderMain" />
+      <module name="testing-mooc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tudelft.numfinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -239,8 +279,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.GettingStartedTest" />
+      <item itemvalue="Application.NumFinderMain" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumFinderMain" />
         <item itemvalue="JUnit.GettingStartedTest" />
       </list>
     </recent_temporary>
@@ -256,7 +301,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550346256971</updated>
       <workItem from="1550346258594" duration="430000" />
-      <workItem from="1550346853724" duration="247000" />
+      <workItem from="1550346853724" duration="917000" />
     </task>
     <servers />
   </component>
@@ -267,13 +312,15 @@
     <history-entry file="GettingStartedTest - 2019.02.16 at 20h 58m 24s.xml">
       <configuration name="GettingStartedTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GettingStartedTest - 2019.02.16 at 20h 58m 43s.xml">
+      <configuration name="GettingStartedTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="677000" />
+    <option name="totallyTimeSpent" value="1347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -285,11 +332,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32980132" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,6 +385,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tudelft/numfinder/NumFinderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
